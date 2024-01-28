@@ -1,5 +1,3 @@
-# RPG-Project
- 
 # 🇺🇸
 # RPG Project Repository
 
