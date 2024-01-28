@@ -80,9 +80,7 @@ rpg-project/
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
-- [Contributor 1](https://github.com/contributor1)
-- [Contributor 2](https://github.com/contributor2)
+- [For now, only me.](https://github.com/LSierra1)
 
 Feel free to contribute to the project by forking the repository and submitting pull requests!
 
@@ -168,9 +166,7 @@ rpg-project/
 
 ## Contribuidores
 
-- [Seu Nome](https://github.com/seu-username)
-- [Contribuidor 1](https://github.com/contribuidor1)
-- [Contribuidor 2](https://github.com/contribuidor2)
+- [Por enquanto, só eu.](https://github.com/LSierra1)
 
 Sinta-se à vontade para contribuir para o projeto fazendo um fork do repositório e enviando pull requests!
 
